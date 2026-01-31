@@ -11,6 +11,3 @@ async function bootstrap() {
 }
 
 bootstrap();
-// VMHuyXlN8LoiBeGC
-// superadmin
-// mongodb+srv://superadmin:VMHuyXlN8LoiBeGC@cluster0.gjfsclj.mongodb.net/?appName=Cluster0
