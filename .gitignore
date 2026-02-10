@@ -4,3 +4,10 @@ dist/
 npm-debug.log
 .DS_Store
 .env.example
+
+
+# markdown
+CODEBASE_EXPLAINED.md
+ENDPOINTS.md
+IMPLEMENTATION_PLAN.md
+IMPLEMENTATION_RESULT.md
